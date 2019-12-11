@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContentProvider Contactos</string>
+
+    <!-- Botones -->
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+
+    <!-- EditText -->
+    <string name="name">Contact name</string>
+    <string name="number">Contact number</string>
+
+
+</resources>
